@@ -1,0 +1,4 @@
+﻿  xmltest.cpp
+xmltest.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  tinyXmlTest.vcxproj -> C:\Users\Martin\Downloads\tinyxml_2_6_2\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe
+  tinyXmlTest.vcxproj -> C:\Users\Martin\Downloads\tinyxml_2_6_2\tinyxml\DebugtinyXmlTest\tinyXmlTest.pdb (Full PDB)

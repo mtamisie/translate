@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fr>
+  <objects>
+    <swo val="grande epee"/>
+    <bur val="Marteau"/>
+    <gou val="gourdin"/>
+    <p51 val="chocolat chaud"/>
+  </objects>
+  <sentences>
+    <sentence1 val="J ai {number} {object} "/>
+    <sentence2 val="j ai mange mon {object} {number} fois"/>
+    <sentence3 val="J ai bu {number} {object}"/>
+    <sentence4 val="Je suis un pirate"/>
+  </sentences>    
+</fr>
